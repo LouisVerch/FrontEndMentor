@@ -1,6 +1,9 @@
 body{
     background-color: #f4f4f4;
-    font-family: ;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weights;
+    font-style: normal;
     margin: 0;
     padding: 0;
 }
