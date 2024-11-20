@@ -1,5 +1,5 @@
 body{
-    min-height 300lvh;
+    min-height 1900px;
     display: flex;
     background-color: #d5e1ef;
     font-family: "Outfit", sans-serif;
@@ -8,13 +8,14 @@ body{
 }
 .box{
     display: flex;
-    align-self: center;
     flex-direction: column;
     background-color: white;
     width: 320px;
     height: 500px;
-    margin: auto;
+    align-self: center;
     align-items: center;
+    justify-content: center;
+    margin: auto;
     padding: 16px 16px 16px 16px;
     border-radius: 15px;
 }
