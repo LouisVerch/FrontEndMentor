@@ -1,9 +1,47 @@
 body{
-    background-color: #f4f4f4;
+    background-color: #d5e1ef;
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
     font-weight: normal;
     font-style: normal;
+    align-items: center;
     margin: 0;
     padding: 0;
+}
+.box{
+    background-color: white;
+    width: 320px;
+    height: 500px;
+    align-content: center;
+    margin:auto;
+    padding: 16px 16px 16px 16px;
+    border-radius: 15px;
+    align-self: center;
+    margin:100px
+
+}
+.container {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.container h1{
+    font-weight: 700;
+    font-size: 22px;
+    color: #1f314f ;
+    line-height: 120%;
+    text-align: center;
+}
+.container p{
+    font-weight: 400;
+    font-size: 15px;
+    color: #68778d;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    text-align: center;
+    
+}
+.box img{
+    height: fit-content;
+    width: inherit;
+    border-radius: 15px;
 }
